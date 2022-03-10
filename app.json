@@ -1,0 +1,38 @@
+{
+    "name": "hctx3",
+    "description": "u",
+    "keywords": ["xrr"],
+    "env": {
+        "AA": {
+            "description": "初",
+            "value": "如出现错误，请检查参数格式或多尝试几次。使用自定义参数请务必先充分理解其含义"
+        },
+        "AUUID": {
+            "description": "UU",
+            "value": "3c949437-d711-4a3e-a080-62e5f819b980"
+        },
+        "CADDYIndexPage": {
+            "description": "CADDY显示：https://github.com/kftyrtsyy/hctx3/master/etc/CADDYIndexPage.md",
+            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+        },
+        "CONFIGCADDY": {
+            "description": "自定义",
+            "value": "https://raw.githubusercontent.com/kftyrtsyy/hctx3/master/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "自定义",
+            "value": "https://raw.githubusercontent.com/kftyrtsyy/hctx3/master/etc/xray.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "自定义",
+            "value": "https://raw.githubusercontent.com/kftyrtsyy/hctx3/master/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/kftyrtsyy/hctx3",
+    "repository": "https://github.com/kftyrtsyy/hctx3",
+    "stack": "container"
+}
